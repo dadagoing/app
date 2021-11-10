@@ -10,6 +10,7 @@
     <version>1.0.0</version>
     <modules>
         <module>app-solr</module>
+        <module>app-concurrency</module>
     </modules>
 
     <parent>
