@@ -1,2 +1,5 @@
 /example.log
 /.idea/
+/app.iml
+/app-solr/app-solr.iml
+/app-concurrency/app-concurrency.iml
