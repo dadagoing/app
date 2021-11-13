@@ -27,9 +27,7 @@ public class Query {
                 System.out.println(ldsp);
             }
 
-        } catch (SolrServerException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+        } catch (SolrServerException | IOException e) {
             e.printStackTrace();
         }
     }

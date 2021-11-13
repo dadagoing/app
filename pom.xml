@@ -11,6 +11,7 @@
     <modules>
         <module>app-solr</module>
         <module>app-concurrency</module>
+        <module>app-core</module>
     </modules>
 
     <parent>
